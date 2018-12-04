@@ -6,20 +6,19 @@ background-color: #dbbca0;
 table.center {
    margin-left:auto;
    margin-right:auto;
+
  }
 
  table {
-     border: 1px solid #3399ff;
+
+   border: 1px solid #3399ff;
  }
 
-table, td, th{
-border-collapse: collapse;
-}
 
 button{
-
+  background-color: #ac7339;
 }
 
 input{
-
+  
 }
